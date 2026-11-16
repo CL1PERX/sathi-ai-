@@ -1,0 +1,6 @@
+{
+  "name": "Sathi AI",
+  "description": "Sathi AI is a dedicated, ultra-fast multilingual AI assistant chatbot with direct responses, customized for Nepal and beyond with local persistence and privacy compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
